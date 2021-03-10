@@ -39,22 +39,17 @@
         <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.siteName }}</h1>
         </a>
-        <h2>{{ site.description }}</h2>
           <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
       </div>
     </header>
 
     <div id="content-wrapper">
-      <div id="inner-content">
-        <section id="main-content">
+      <!--<div id="inner-content">-->
+        <div id="main-content">
           	{{ content }}
-        </section>
-        <aside id="sidebar">
-        </aside>
-		<section id="main-content2">
-          	{{ content }}
-        </section>
-      </div>
+        </div>
+        <div id="sidebar">
+        </div>
 	</div>
   <footer>   		
 	<div id="inner-footer">
