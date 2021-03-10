@@ -44,7 +44,7 @@ hr
 
 header 
 {
-	position: fixed; 
+	position: relative; 
     top: 0;
     height: 80px !important;
 	width: 100%;
@@ -101,8 +101,8 @@ footer
 
 #sidebar 
 {
-	top: 80px;
-	position: absolute;
+	top: 160px;
+	position: fixed;
     min-height: 500px;
     padding-left: 20px;
     font-size: 12px;
@@ -119,8 +119,6 @@ footer
 
 #inner-header 
 {
-    position: relative;
-    width: 940px;
     margin-left: 12%;
 }
 
