@@ -114,11 +114,12 @@ footer
 
 header h1 
 {
-    width: 540px;
+    //width: 540px;
     margin-top: 0;
     margin-bottom: 0.2em;
-    font-size: 72px;
-    font-weight: normal;
+    font-size: 65px;
+    font-weight: bold;
+	text-decoration: none;
     line-height: 1;
     color: #fff;
     letter-spacing: -1px;
@@ -139,6 +140,7 @@ header h2
 a 
 {
   color: #2879d0;
+   text-decoration: none;
 }
 
 a:hover 
