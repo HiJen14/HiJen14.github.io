@@ -38,8 +38,8 @@ header
 {
     padding-top: 40px;
     padding-bottom: 40px;
-    border-bottom: solid 1px #275da1;
-    background: #686868 url(../../Images/header-bg.jpg) 0 0 repeat;
+    background-color: black;
+    //background: #686868 url(../../Images/header-bg.jpg) 0 0 repeat;
 }
 
 footer 
@@ -61,6 +61,7 @@ footer
 #main-content 
 {
     float: left;
+	margin-left: 350px;
     width: 690px;
 }
 
@@ -71,13 +72,14 @@ footer
 
 #sidebar 
 {
-    float: right;
-    //width: 200px;
-    min-height: 504px;
+    //float: right;
+    min-height: 500px;
     padding-left: 20px;
     font-size: 12px;
     line-height: 1.3;
-	color: white;
+	color: #e4e4e4;
+	width: 300px;
+	min-width: 200px;
     //background: transparent url(../../images/sidebar-bg.jpg) 0 0 repeat-y;
 }
 
@@ -91,8 +93,8 @@ footer
 #inner-content 
 {
     position: relative;
-    width: 940px;
-    margin-left: 12%;
+    //width: 940px;
+    margin-left: 20px;
 }
 
 #inner-footer 
