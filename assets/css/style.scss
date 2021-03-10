@@ -84,12 +84,13 @@ footer
 #sidebar 
 {
     float: right;
-    width: 200px;
+    //width: 200px;
     min-height: 504px;
     padding-left: 20px;
     font-size: 12px;
     line-height: 1.3;
-    background: transparent url(../../images/sidebar-bg.jpg) 0 0 repeat-y;
+	color: white;
+    //background: transparent url(../../images/sidebar-bg.jpg) 0 0 repeat-y;
 }
 
 #inner-header 
