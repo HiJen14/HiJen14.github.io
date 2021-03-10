@@ -72,6 +72,7 @@ footer
     position: relative;
     min-width: 600px; 
 	display: table;
+	margin-top: 15px;
 }
 
 #main 
@@ -80,7 +81,7 @@ footer
 	padding-bottom: 5px;
     border-top: solid 1px #fff;
 	background-color: white;
-	border-bottom: solid 5px #000;
+	border-bottom: solid 4px #000;
 	overflow: auto;
 	-moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -91,8 +92,13 @@ footer
 
 #main-content 
 {
-    float: left;
-	margin-left: 350px;
+	margin-left: 325px;
+	margin-top: 15px;
+}
+
+#SidebarRail 
+{
+	background-color: #2f2f2f;
 }
 
 #main-content img 
@@ -102,14 +108,14 @@ footer
 
 #sidebar 
 {
-	top: 160px;
+	//top: 160px;
 	position: fixed;
     min-height: 500px;
     padding-left: 20px;
     font-size: 12px;
     line-height: 1.3;
 	background-color: #000;
-	min-width: 200px;
+	min-width: 300px;
 	height: 100%;
 	-moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -120,7 +126,7 @@ footer
 
 #inner-header 
 {
-    margin-left: 12%;
+    margin-left: 220px;
 }
 
 #inner-content 
