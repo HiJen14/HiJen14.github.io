@@ -44,6 +44,10 @@ hr
 
 header 
 {
+	position: fixed; 
+    top: 0;
+    height: 180px !important
+	width: 100%;
     padding-top: 40px;
     padding-bottom: 40px;
     background-color: black;
@@ -84,11 +88,6 @@ footer
 #sidebar 
 {
 	position: absolute;
-	moz-box-sizing:border-box;
-    -webkit-box-sizing:border-box;
-    -o-box-sizing:border-box;
-    -ms-box-sizing:border-box;
-    box-sizing:border-box;
     min-height: 500px;
     padding-left: 20px;
     font-size: 12px;
