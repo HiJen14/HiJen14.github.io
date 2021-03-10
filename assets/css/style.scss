@@ -1,13 +1,12 @@
 ---
 ---
 
-//@import "{{ site.theme }}";
-
 html, body 
 {
   margin: 0px;
   padding: 0px;
   min-height: 100%;
+  font-family: "Open Sans", Helvetica, Verdana, Arial, Sans-Serif, serif;
   height: 100%;
 }
 
@@ -16,7 +15,7 @@ body
     font-size: 15px;
     font-weight: 400;
     line-height: 1.5;
-    font-family: Helvetica, Verdana, Arial, serif;
+    font-family: "Open Sans", Helvetica, Verdana, Arial, Sans-Serif, serif;
     color: #000;
     background-color: #eeeeee;
 }
@@ -40,7 +39,6 @@ header
     padding-top: 40px;
     padding-bottom: 40px;
     border-bottom: solid 1px #275da1;
-    font-family: Helvetica, Verdana, Arial, serif;
     background: #686868 url(../../Images/header-bg.jpg) 0 0 repeat;
 }
 
