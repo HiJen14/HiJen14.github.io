@@ -77,9 +77,8 @@ footer
 
 #main 
 {
-    padding-top: 5px;
-	padding-bottom: 5px;
-    border-top: solid 1px #fff;
+    //padding-top: 5px;
+	//padding-bottom: 5px;
 	background-color: white;
 	border-bottom: solid 4px #000;
 	overflow: auto;
@@ -92,13 +91,16 @@ footer
 
 #main-content 
 {
-	margin-left: 325px;
-	margin-top: 15px;
+	display: table-cell;
+	padding: 45px;
 }
 
 #SidebarRail 
 {
 	background-color: #2f2f2f;
+	height: 100%;
+	display: table-cell;
+	width: 310px;
 }
 
 #main-content img 
