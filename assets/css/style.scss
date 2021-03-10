@@ -55,6 +55,7 @@ footer
 #content-wrapper 
 {
     padding-top: 30px;
+	padding-bottom: 30px;
     border-top: solid 1px #fff;
 	background-color: white;
 	border-bottom: solid 5px #000;
@@ -64,6 +65,12 @@ footer
 {
     float: left;
 	margin-left: 350px;
+    width: 690px;
+}
+
+#main-content2
+{
+    float: left;
     width: 690px;
 }
 
