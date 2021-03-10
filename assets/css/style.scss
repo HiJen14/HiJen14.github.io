@@ -46,7 +46,7 @@ header
 {
 	position: fixed; 
     top: 0;
-    height: 180px !important;
+    height: 80px !important;
 	width: 100%;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -58,10 +58,19 @@ footer
 {
     padding-top: 25px;
     padding-bottom: 25px;
+	height: 80px !important;
     font-size: 15px;
     color: #000;
     background-color: #fff;
     clear: both;
+}
+
+content 
+{
+    position: relative;
+    height: 100%;
+    min-width: 600px; 
+    padding: 80px 0 80px 0; /* Header height and footer height */
 }
 
 #main 
@@ -71,7 +80,7 @@ footer
     border-top: solid 1px #fff;
 	background-color: white;
 	border-bottom: solid 5px #000;
-	position: relative;
+	overflow: auto;
 }
 
 #main-content 
