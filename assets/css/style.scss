@@ -67,6 +67,7 @@ footer
     border-top: solid 1px #fff;
 	background-color: white;
 	border-bottom: solid 5px #000;
+	position: relative;
 }
 
 #main-content 
@@ -82,15 +83,19 @@ footer
 
 #sidebar 
 {
-	position: fixed;
+	position: absolute;
+	moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    -o-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    box-sizing:border-box;
     min-height: 500px;
     padding-left: 20px;
     font-size: 12px;
     line-height: 1.3;
 	background-color: #000;
 	min-width: 200px;
-	top: 0;
-	left: 0;
+	height: 100%;
 }
 
 #inner-header 
