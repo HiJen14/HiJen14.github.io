@@ -2,7 +2,11 @@ var black = true;
    
 	window.onload = (event) => 
 	{
-		console.log('page is fully loaded ' + window.screen.height);
+		if(window.screen.width <= 768)
+		{
+			document.getElementById("LinkHD").width = 300;
+			document.getElementById("LinkHD").height = 125;
+		}
 	};
 	
 	function ChangeImage(x)
