@@ -31,7 +31,7 @@ var menuOpen = true;
 		{
 			document.getElementById("sidebar").style.width = "50px";
 			document.getElementById("sidebar").style.height = "50px";
-			document.getElementById("sidebar").style.font-size = "0px";
+			//document.getElementById("sidebar").style.font-size = "0px";
 			
 			document.getElementById("SidebarRail").style.width = "50px";
 			menuOpen = false;
@@ -40,10 +40,9 @@ var menuOpen = true;
 		{
 			document.getElementById("sidebar").style.width = "300px";
 			document.getElementById("sidebar").style.height = "150px";
-			document.getElementById("sidebar").style.font-size = "12px";
+			//document.getElementById("sidebar").style.font-size = "12px";
 			
 			document.getElementById("SidebarRail").style.width = "300px";
 			menuOpen = true;
 		}
-
 	}
