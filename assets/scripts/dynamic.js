@@ -1,6 +1,6 @@
 var black : boolean = true;
    
-		function ChangeImage()
+		function ChangeImage(x)
 		{
 			if(black)
 			{
