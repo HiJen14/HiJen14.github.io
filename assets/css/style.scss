@@ -72,6 +72,7 @@ footer
     min-width: 600px; 
 	display: table;
 	margin-top: 15px;
+	width: 100%;
 }
 
 #main 
@@ -262,7 +263,7 @@ table, th, td
 	#main-content 
 	{
 		padding: 30px;
-		width: 768px;
+		width: 100%;
 		min-width: 400px; 
 	}
 }
