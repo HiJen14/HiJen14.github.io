@@ -4,12 +4,12 @@ var black : boolean = true;
 		{
 			if(black)
 			{
-				document.getElementById("LinkHD").src = {{ site.baseurl }}"/Images/LinkGrey.png"; 
+				document.getElementById("LinkHD").src = "/Images/LinkGrey.png"; 
 				black = false;
 			}
 			else
 			{
-				document.getElementById("LinkHD").src = {{ site.baseurl }}"/Images/LinkBlack.png"; 
+				document.getElementById("LinkHD").src = "/Images/LinkBlack.png"; 
 				black = true;
 			}
 		}
