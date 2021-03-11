@@ -66,7 +66,7 @@ footer
     clear: both;
 }
 
-#LinkHD
+/*#LinkHD
 {
 	background: url("{{ site.baseurl }}/Images/LinkBlack.png") no-repeat;
 	height: 300px;
@@ -76,7 +76,7 @@ footer
 #LinkHD:hover 
 {
 	background: url("{{ site.baseurl }}/Images/LinkGrey.png") no-repeat;
-}
+}*/
 
 #content 
 {
@@ -279,20 +279,6 @@ table, th, td
 		padding: 30px;
 		width: 100vw;
 		min-width: 400px; 
-	}
-	
-	#LinkHD
-	{
-		background: url("{{ site.baseurl }}/Images/LinkBlack.png") no-repeat;
-		height: 125px;
-		width: 300px;
-	}
-
-	#LinkHD:hover 
-	{
-		background: url("{{ site.baseurl }}/Images/LinkGrey.png") no-repeat;
-		height: 125px;
-		width: 300px;
 	}
 
 	#textFormat
