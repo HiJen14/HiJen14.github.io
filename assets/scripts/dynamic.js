@@ -2,7 +2,7 @@ var black = true;
    
 	window.onload = (event) => 
 	{
-		console.log('page is fully loaded' + window.document.height);
+		console.log('page is fully loaded ' + window.screen.height);
 	};
 	
 	function ChangeImage(x)
