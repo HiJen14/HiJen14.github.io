@@ -1,22 +1,27 @@
 var black = true;
    
-		function ChangeImage(x)
+	window.onload = (event) => 
+	{
+		console.log('page is fully loaded' + window.document.height);
+	};
+	
+	function ChangeImage(x)
+	{
+		if(black)
 		{
-			if(black)
-			{
-				document.getElementById("LinkHD").src = "/Images/LinkGrey.png"; 
-				black = false;
-			}
-			else
-			{
-				document.getElementById("LinkHD").src = "/Images/LinkBlack.png"; 
-				black = true;
-			}
+			document.getElementById("LinkHD").src = "/Images/LinkGrey.png"; 
+			black = false;
 		}
+		else
+		{
+			document.getElementById("LinkHD").src = "/Images/LinkBlack.png"; 
+			black = true;
+		}
+	}
    
-		//Hey Listen
-		function OpenNavi() 
-		{
-			document.getElementById("mySidebar").style.width = "250px";
-			document.getElementById("main").style.marginLeft = "250px";
-		}
+	//Hey Listen
+	function OpenNavi() 
+	{
+		document.getElementById("mySidebar").style.width = "250px";
+		document.getElementById("main").style.marginLeft = "250px";
+	}
