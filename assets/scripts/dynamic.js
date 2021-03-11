@@ -1,4 +1,4 @@
-var black : boolean = true;
+var black = true;
    
 		function ChangeImage(x)
 		{
