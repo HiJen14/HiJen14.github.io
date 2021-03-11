@@ -1,4 +1,5 @@
 var black = true;
+var menuOpen = true;
    
 	window.onload = (event) => 
 	{
@@ -26,6 +27,23 @@ var black = true;
 	//Hey Listen
 	function OpenNavi() 
 	{
-		document.getElementById("mySidebar").style.width = "250px";
-		document.getElementById("main").style.marginLeft = "250px";
+		if(menuOpen)
+		{
+			document.getElementById("sidebar").style.width = "50px";
+			document.getElementById("sidebar").style.height = "50px";
+			document.getElementById("sidebar").style.font-size = "0px";
+			
+			document.getElementById("SidebarRail").style.width = "50px";
+			menuOpen = false;
+		}
+		else
+		{
+			document.getElementById("sidebar").style.width = "300px";
+			document.getElementById("sidebar").style.height = "150px";
+			document.getElementById("sidebar").style.font-size = "12px";
+			
+			document.getElementById("SidebarRail").style.width = "300px";
+			menuOpen = true;
+		}
+
 	}
