@@ -29,18 +29,17 @@ var menuOpen = true;
 	{
 		if(menuOpen)
 		{
-			document.getElementById("sidebar").style.width = "50px";
-			document.getElementById("sidebar").style.height = "50px";
-			//document.getElementById("sidebar").style.font-size = "0px";
+			document.getElementById("sidebar").style.display = "none"; 
+			document.getElementById("sidebarIcon").style.display = "block";
 			
 			document.getElementById("SidebarRail").style.width = "50px";
 			menuOpen = false;
 		}
 		else
 		{
-			document.getElementById("sidebar").style.width = "300px";
-			document.getElementById("sidebar").style.height = "150px";
-			//document.getElementById("sidebar").style.font-size = "12px";
+			document.getElementById("sidebar").style.display = "block"; 
+			document.getElementById("sidebarIcon").style.display = "none";
+
 			
 			document.getElementById("SidebarRail").style.width = "300px";
 			menuOpen = true;

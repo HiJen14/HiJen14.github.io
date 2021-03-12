@@ -105,6 +105,22 @@ footer
     max-width: 100%;
 }
 
+#sidebarIcon
+{
+	position: fixed;
+	padding: 14px;
+	margin-left: 8px;
+	background-color: #d6d6d6;
+	width: 50px;
+	height: 50px;
+	-moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+	display: none;
+}
+
 #sidebar 
 {
 	position: fixed;
@@ -121,6 +137,7 @@ footer
     -o-box-sizing: border-box;
     -ms-box-sizing: border-box;
     box-sizing: border-box;
+	display: block;
 }
 
 #inner-header 
