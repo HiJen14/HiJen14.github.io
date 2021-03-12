@@ -34,8 +34,14 @@
   <body>
     <header>
       <div id="inner-header">
-        <a href="{{ '/' | absolute_url }}">
-          <h1>{{ site.siteName }}</h1>
+        <a href="/">
+			{{ page.dir }}
+			{% if page.dir == "/" %}
+				<h1>The Other</h1><h1 class="red">One</h1>
+			{% elsif page.dir == "/pages/windwaker/" %}
+				<h1>The Other</h1><h1 class="red">One</h1>
+				<h2>Talks about Wind Waker HD</h2>
+			{% endif %}
         </a>
       </div>
     </header>
