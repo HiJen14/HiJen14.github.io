@@ -5,10 +5,10 @@ title: Wind Waker HD
 
 <p>Here you find routes for <b>The legend of zelda - Wind Waker HD</b>. This game is only available on the 
 WII U for now. These routes are developed and tested by me, but of course can be the same as routes 
-available on <a href="https://www.zeldaspeedruns.com/twwhd/">the Wind Waker HD community speedrunning website.</a></p>
+available on <a href="https://www.zeldaspeedruns.com/twwhd/">The Wind Waker HD community speedrunning website.</a></p>
 <br />
-<p>These routes are for runners that want to start up running Wind Waker HD. And start from relatively easy to moderate.
-The routes on this website can't or very likely can't make you a world record competer. 
+<p>These routes are for runners that want to startup running Wind Waker HD. And start from relatively easy to moderate.
+The routes on this website can't or very likely can't make you a world record contender.
 They slowly set you up to get better in the game, that doesn't mean there aren't glitches in the run that need quite some practice.</p>
 <br />
 <p>All the glitches I come across while speedrunning this game are also featured on this website.
