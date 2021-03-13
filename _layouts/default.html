@@ -47,9 +47,13 @@
 
 	<div id="content">
 		<div id="main">
-			{% include MenuListing.html %}
+			{% if page.dir == "/" %}
+				<div id="sidebarHome"></div>
+			{% else %}
+				{% include MenuListing.html %}
+			{% endif %}
 			<div id="main-content">
-          	{{ content }}
+				{{ content }}
 			</div>
 		</div>
 	</div>
