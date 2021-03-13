@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wind Waker HD
+title: Glitches
 ---
 
 <p>&nbsp;</p>
