@@ -139,10 +139,12 @@ footer
 	display: block;
 }
 
-/*#inner-header 
+#sidebar h2
 {
-    margin-left: 325px;
-}*/
+	margin-top: 0;
+    margin-bottom: 0;
+	line-height: 0;
+}
 
 #inner-content 
 {
