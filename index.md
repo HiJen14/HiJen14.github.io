@@ -17,3 +17,10 @@ I hope one day I find a glitch in this awful place, escape and get my revenge.
 		<img src="{{ site.baseurl }}/Images/LinkBlack.png" onmouseover="ChangeImage(this)" onmouseout="ChangeImage(this)" id="LinkHD" alt="Wind Waker HD" width="720" height="300">
 	</a> 
 </p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
