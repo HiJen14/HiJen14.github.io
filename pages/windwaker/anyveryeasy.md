@@ -3,4 +3,5 @@ layout: default
 title: Any% Very Easy
 ---
 
-<h1><b>Available soon!</b></h1>
+<p><h1><b>Available soon!</b></h1></p>
+<p><a href="/pages/windwaker/windwakermain">Back.</a></p>
