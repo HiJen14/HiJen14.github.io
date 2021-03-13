@@ -4,7 +4,7 @@ title: Wind Waker HD
 ---
 <p><h1>Wind Waker HD</h1></p>
 <p>Here you find routes for <b>The legend of zelda - Wind Waker HD</b>. This game is only available on the 
-WII U for now. These routes are developed and tested by me, but of course can be the same as routes 
+WII U. These routes are developed and tested by me, but of course can be the same as routes 
 available on <a href="https://www.zeldaspeedruns.com/twwhd/">The Wind Waker HD community speedrunning website.</a></p>
 <br />
 <p>These routes are for runners that want to startup running Wind Waker HD. And start from relatively easy to moderate.
@@ -12,7 +12,7 @@ The routes on this website can't or very likely can't make you a world record co
 They slowly set you up to get better in the game, that doesn't mean there aren't glitches in the run that need quite some practice.</p>
 <br />
 <p>All the glitches I come across while speedrunning this game are also featured on this website.
-To document them and make other people aware they exist, same for set-ups I make.</p>
+To document them and make gamers / runners aware they exist. You can also find set-ups for some of the tricks/glitches.</p>
 <br />
 <p><span style="color:red">The glitches, bugs and exploits explained on this website are discovered by 
 the Wind Waker HD community. Only the glitches I'm sure about discovered by me will state so. At the moment, I'm 
