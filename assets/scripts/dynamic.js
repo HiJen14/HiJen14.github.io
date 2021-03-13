@@ -25,7 +25,7 @@ var menuOpen = true;
 	}
    
 	//Hey Listen
-	function OpenNavi() 
+	/*function OpenNavi() 
 	{
 		if(menuOpen)
 		{
@@ -44,4 +44,4 @@ var menuOpen = true;
 			document.getElementById("SidebarRail").style.width = "300px";
 			menuOpen = true;
 		}
-	}
+	}*/
