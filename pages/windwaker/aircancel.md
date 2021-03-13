@@ -10,7 +10,7 @@ title: Air Cancel
 <br />
 <p><iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 <br />
-<p><b>Usefull in runs?</b> When you splash (sploosh) in the water by hitting something while superswimming you can at times still swim to the island, cutscene trigger.
+<p><b>Useful in runs?</b> When you splash (sploosh) in the water by hitting something while superswimming you can at times still swim to the island, cutscene trigger.
 At times it's faster to savewarp, because this pause swimming is very slow! So you need to get a feeling for when it can save some time.</p>
 <br />
 <p><b>Controls:</b></p>
