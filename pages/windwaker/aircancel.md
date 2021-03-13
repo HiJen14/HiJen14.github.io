@@ -4,10 +4,20 @@ title: Air Cancel
 ---
 
 <p><h1>Manipulating air meter to last longer.</h1></p>
+<p><h2>Pause Swimming.</h2></p>
 <p><b>Difficulty:</b> Easy (Need to find a good rhythm of pressing the start button)</p>
-<p><b>Usefull in runs?</b> When you splash (sploosh) in the water by hitting something while superswimming you can at times still swim to the island, cutscene trigger.
-At times it's faster to savewarp, because this pause swimming is very slow!</p>
 <br />
 <p><iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<br />
+<p><b>Usefull in runs?</b> When you splash (sploosh) in the water by hitting something while superswimming you can at times still swim to the island, cutscene trigger.
+At times it's faster to savewarp, because this pause swimming is very slow! So you need to get a feeling for when it can save some time.</p>
+<br />
+<p><b>Controls:</b></p>
+<p>- Analog stick in direction you want to swim.</p>
+<p>- Pressing start in a rhythm.</p>
+<br />
+<p>Faster presses can make the air meter go slower but swimming cost more time. The air meter will always deplete eventually do.</p>
+<p><b>How I think it works:</b> The calculations of link forward swimming speed probably gets calculated earlier in a frame then the air meter depletion. 
+So pausing before the air depletion calculations, makes the game eat this calculation. Because it can't do it while the game is paused.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
