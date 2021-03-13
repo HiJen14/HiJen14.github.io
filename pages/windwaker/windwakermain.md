@@ -7,7 +7,7 @@ title: Wind Waker HD
 WII U for now. These routes are developed and tested by me, but of course can be totally the same as routes 
 available on the Wind Waker HD community wiki.</p>
 <p>&nbsp;</p>
-<p>These routes are for the runners that want to start up running Wind Waker HD. And start from relatively easy to moderate.
+<p>These routes are for runners that want to start up running Wind Waker HD. And start from relatively easy to moderate.
 The routes on this website can't or very likely can't make you a world record competer. 
 They slowly set you up to get better in the game, that doesn't mean there aren't glitches in the run that need quite some practice.</p>
 <p>&nbsp;</p>
