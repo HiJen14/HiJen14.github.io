@@ -2,8 +2,8 @@
 layout: default
 title: Wind Waker HD
 ---
-<p><h1>Wind Waker HD</h1></p>
-<p>Here you find routes for <b>The legend of zelda - Wind Waker HD</b>. This game is only available on the 
+<p><h1>Wind Waker HD - No MSS</h1></p>
+<p>Here you find routes for <b>The legend of zelda - Wind Waker HD</b>(No Manual Super Swim). This game is only available on the 
 WII U. These routes are developed and tested by me, but of course can be the same as routes 
 available on <a href="https://www.zeldaspeedruns.com/twwhd/">The Wind Waker HD community speedrunning website.</a></p>
 <br />

@@ -8,6 +8,7 @@ title: Air Cancel
 </p>
 <p><b>Difficulty:</b> Easy (Need to find a good rhythm of pressing the start button)</p>
 <br />
+<p>Swimming from Outset to Headstone island. (Video contains flickers!)</p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/EkaAAJ3Y4dA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <br />
 <p><b>Useful in runs?</b></p>
