@@ -285,11 +285,22 @@ table, th, td
 	
 	#sidebar 
 	{
-		display: none;
-		background-color: #000;
-		min-width: 0px;
-		height: 100%;
+		display: table-cell;
+		padding: 14px;
+		margin-left: 8px;
+		font-weight: bold;
+		font-size: 14px;
+		line-height: 1.3;
+		background-color: #d6d6d6;
+		min-width: 800px;
+		min-height: 400px;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		-o-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		box-sizing: border-box;
 	}
+	
 	
 	header 
 	{
