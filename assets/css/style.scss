@@ -72,12 +72,12 @@ footer
 	display: table;
 	margin-top: 15px;
 	width: 100%;
+	border-bottom: solid 4px #000;
 }
 
 #main 
 {
 	background-color: #f2f2f2;
-	border-bottom: solid 4px #000;
 	overflow: auto;
 	-moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
