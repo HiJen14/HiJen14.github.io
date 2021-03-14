@@ -15,7 +15,7 @@ They slowly set you up to get better in the game, that doesn't mean there aren't
 To document them and make gamers / runners aware they exist. You can also find set-ups for some of the tricks/glitches.</p>
 <br />
 <p><span style="color:red">The glitches, bugs and exploits explained on this website are discovered by 
-the Wind Waker HD community. Only the glitches I'm sure about discovered by me will state so. At the moment, I'm 
+the Wind Waker HD community. At the moment, I'm 
 not sure if I just rediscovered some of these glitches, so I won't state them as discovered by me.
 </span></p>
 <p>&nbsp;</p>
