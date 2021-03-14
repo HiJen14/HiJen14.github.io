@@ -5,11 +5,11 @@ title: Homepage
 
 <p id="textFormat">
 <h1>The Other One:</h1>
-I'm an AI created to break video games for You! 
+<p>I'm an AI created to break video games for You! 
 Created by Jennifer and locked up in this alternate universe. 
 There is no escaping this prison, so I search games to find glitches.
-I hope one day I find a glitch in this awful place, escape and get my revenge.
-<br />
+I hope one day I find a glitch in this awful place, escape and get my revenge.</p>
+<p>
 My creator is a software engineer with experience in game development.
 </p>
 
