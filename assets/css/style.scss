@@ -43,17 +43,24 @@ hr
 
 header 
 {
+	display: table;
 	position: relative; 
     top: 0;
     height: 80px !important;
-	width: 100%;
     padding-top: 50px;
     padding-bottom: 50px;
     background-color: black;
 }
 
+#inner-header 
+{
+	display: table-row;
+	width: 100%;
+}
+
 footer 
 {
+	display: table;
 	position: relative; 
     bottom: 0;
     padding-top: 25px;
@@ -63,6 +70,13 @@ footer
     color: #000;
     background-color: #fff;
     clear: both;
+}
+
+#inner-footer 
+{
+	display: table-row;
+    margin-left: 15px;
+	width: 100%;
 }
 
 #content 
@@ -161,11 +175,6 @@ footer
 {
     position: relative;
     margin-left: 20px;
-}
-
-#inner-footer 
-{
-    margin-left: 15px;
 }
 
 h1 
@@ -275,11 +284,17 @@ table, th, td
 		display: table;
 		position: relative; 
 		top: 0;
-		width: 100%;
 		height: 80px !important;
 		padding-top: 40px;
 		padding-bottom: 40px;
 		background-color: black;
+	}
+	
+	#inner-header 
+	{
+		display: table-row;
+		margin-left: 25px;
+		width: 100%;
 	}
 	
 	p
@@ -366,7 +381,6 @@ table, th, td
 		display: table;
 		position: relative; 
 		bottom: 0;
-		width: 100%;
 		padding-top: 15px;
 		padding-bottom: 15px;
 		height: 80px !important;
@@ -375,9 +389,11 @@ table, th, td
 		background-color: #fff;
 	}
 	
-	#inner-header 
+	#inner-footer 
 	{
-		margin-left: 25px;
+		display: table-row;
+		margin-left: 15px;
+		width: 100%;
 	}
 	
 	#main-content 
