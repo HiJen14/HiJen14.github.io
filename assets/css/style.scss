@@ -282,7 +282,6 @@ table, th, td
 	header 
 	{
 		display: table;
-		position: relative; 
 		top: 0;
 		height: 80px !important;
 		padding-top: 40px;
@@ -293,6 +292,7 @@ table, th, td
 	#inner-header 
 	{
 		display: table-row;
+		min-width: 600px;
 		margin-left: 25px;
 		width: 100%;
 	}
@@ -378,8 +378,7 @@ table, th, td
 	
 	footer 
 	{
-		display: table;
-		position: relative; 
+		display: table; 
 		bottom: 0;
 		padding-top: 15px;
 		padding-bottom: 15px;
@@ -391,6 +390,7 @@ table, th, td
 	
 	#inner-footer 
 	{
+		min-width: 600px;
 		display: table-row;
 		margin-left: 15px;
 		width: 100%;
