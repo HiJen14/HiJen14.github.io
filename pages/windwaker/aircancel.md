@@ -22,6 +22,6 @@ Most times it's faster to savewarp, because this pause swimming is very slow! So
 <br />
 <p><b>How it probably works:</b></p>
 <p>The calculations of link forward swimming speed probably gets calculated earlier in a frame then the air meter depletion. 
-So pausing before the air depletion calculations, makes the game eat this calculation. Because it can't do it while the game is paused.</p>
+So pausing before the air depletion calculations, makes the game eat this calculation. Because game is paused so no air depletion calculations.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
