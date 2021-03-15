@@ -63,9 +63,8 @@ header
 
 footer 
 {
-	position: relative;
-    min-width: 600px; 
 	display: table;
+	width: 100%;
     padding-top: 25px;
     padding-bottom: 25px;
 	height: 80px;
@@ -78,8 +77,12 @@ footer
 #inner-footer 
 {
 	display: table-row;
+}
+
+#cell-footer 
+{
+	display: table-cell;
     margin-left: 15px;
-	width: 100%;
 }
 
 #content 
