@@ -43,6 +43,8 @@ hr
 
 header 
 {
+	position: relative;
+    min-width: 600px; 
 	display: table;
     height: 80px;
     padding-top: 50px;
@@ -52,12 +54,14 @@ header
 
 #inner-header 
 {
-	display: table-cell;
+	display: table-row;
 	width: 100%;
 }
 
 footer 
 {
+	position: relative;
+    min-width: 600px; 
 	display: table;
     padding-top: 25px;
     padding-bottom: 25px;
@@ -70,7 +74,7 @@ footer
 
 #inner-footer 
 {
-	display: table-cell;
+	display: table-row;
     margin-left: 15px;
 	width: 100%;
 }
@@ -277,6 +281,8 @@ table, th, td
 	
 	header 
 	{
+		position: relative;
+		min-width: 600px; 
 		display: table;
 		height: 80px;
 		padding-top: 40px;
@@ -373,6 +379,8 @@ table, th, td
 	
 	footer 
 	{
+		position: relative;
+		min-width: 600px; 
 		display: table; 
 		padding-top: 15px;
 		padding-bottom: 15px;
