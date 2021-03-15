@@ -44,9 +44,7 @@ hr
 header 
 {
 	display: table;
-	position: relative; 
-    top: 0;
-    height: 80px !important;
+    height: 80px;
     padding-top: 50px;
     padding-bottom: 50px;
     background-color: black;
@@ -54,18 +52,16 @@ header
 
 #inner-header 
 {
-	display: table-row;
+	display: table-cell;
 	width: 100%;
 }
 
 footer 
 {
 	display: table;
-	position: relative; 
-    bottom: 0;
     padding-top: 25px;
     padding-bottom: 25px;
-	height: 80px !important;
+	height: 80px;
     font-size: 15px;
     color: #000;
     background-color: #fff;
@@ -74,7 +70,7 @@ footer
 
 #inner-footer 
 {
-	display: table-row;
+	display: table-cell;
     margin-left: 15px;
 	width: 100%;
 }
@@ -282,8 +278,7 @@ table, th, td
 	header 
 	{
 		display: table;
-		top: 0;
-		height: 80px !important;
+		height: 80px;
 		padding-top: 40px;
 		padding-bottom: 40px;
 		background-color: black;
@@ -291,7 +286,7 @@ table, th, td
 	
 	#inner-header 
 	{
-		display: table-row;
+		display: table-cell;
 		min-width: 600px;
 		margin-left: 25px;
 		width: 100%;
@@ -379,10 +374,9 @@ table, th, td
 	footer 
 	{
 		display: table; 
-		bottom: 0;
 		padding-top: 15px;
 		padding-bottom: 15px;
-		height: 80px !important;
+		height: 80px;
 		font-size: 12px;
 		color: #000;
 		background-color: #fff;
@@ -391,7 +385,7 @@ table, th, td
 	#inner-footer 
 	{
 		min-width: 600px;
-		display: table-row;
+		display: table-cell;
 		margin-left: 15px;
 		width: 100%;
 	}
