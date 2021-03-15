@@ -34,14 +34,16 @@
   <body>
     <header>
       <div id="inner-header">
-        <a href="/">
-			{% if page.dir == "/" %}
-				<p><h1>The Other<span id="red"> One</h1></p>
-			{% elsif page.dir == "/pages/windwaker/" %}
-				<p><h1>The Other<span id="red"> One</h1></p>
-				<p><h2>, talks about Wind Waker HD</h2></p>
-			{% endif %}
-        </a>
+		<div id="cell-header ">
+			<a href="/">
+				{% if page.dir == "/" %}
+					<p><h1>The Other<span id="red"> One</h1></p>
+				{% elsif page.dir == "/pages/windwaker/" %}
+					<p><h1>The Other<span id="red"> One</h1></p>
+					<p><h2>, talks about Wind Waker HD</h2></p>
+				{% endif %}
+			</a>
+		</div>
       </div>
     </header>
 
