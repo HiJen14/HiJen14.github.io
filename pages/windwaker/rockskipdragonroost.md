@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rock Skip Dragonroost
+title: The Other One - Rock Skip Dragonroost
 ---
 
 <p><h1><b>Available soon!</b></h1></p>

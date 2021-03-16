@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trial Skip Leafless
+title: The Other One - Trial Skip Leafless
 ---
 
 <p><h1><b>Available soon!</b></h1></p>

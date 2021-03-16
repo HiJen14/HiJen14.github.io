@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glitches
+title: The Other One - Glitches
 ---
 
 <p><h1>Wind Waker HD</h1></p>

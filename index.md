@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage
+title: The Other One - Homepage
 ---
 
 <p id="textFormat">
